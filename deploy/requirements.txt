@@ -47,3 +47,4 @@ boxing>=0.1.4
 redis>=3.5.0
 sentry-sdk>=1.1.0
 label-studio-converter==0.0.33rc5
+pillow>=9.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
